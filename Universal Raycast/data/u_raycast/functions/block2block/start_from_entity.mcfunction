@@ -1,0 +1,1 @@
+execute as @s at @s rotated as @s anchored eyes positioned ^ ^ ^ run function u_raycast:block2block/start
